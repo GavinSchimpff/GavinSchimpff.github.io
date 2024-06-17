@@ -1,0 +1,48 @@
+body {
+    padding-top: 56px; /* Space for fixed navbar */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.course-table {
+    margin-top: 30px;
+}
+.course-table th {
+    background-color: #007bff; 
+    color: white;
+    text-align: center; 
+}
+.course-table td, .course-table th {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+.resume-content {
+    margin-top: 30px;
+}
+
+.resume-content h2 {
+    margin-bottom: 20px;
+}
+
+.resume-table {
+    margin-top: 20px;
+}
+
+.resume-table th {
+    background-color: #007bff; 
+    color: white;
+    text-align: center;
+}
+
+.resume-table td,
+.resume-table th {
+    text-align: center;
+    vertical-align: middle !important;
+}
